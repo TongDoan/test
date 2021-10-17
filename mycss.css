@@ -1,0 +1,19 @@
+body {
+  color: #000000; /* thiết lập màu chữ */
+  font-size: 20px; /* thiết lập cỡ chữ */
+  background-color: #d0e4fe;
+}
+
+h1 {
+  color: rgb(206, 19, 19); /* thiết lập màu chữ mới cho các phần tử h1 */
+  font-size: 26px; /* thiết lập cỡ chữ mới cho các phần tử h1 */
+  text-align: center;
+}
+
+p {
+  color: blue; /* thiết lập màu chữ mới cho các phần tử p */
+}
+
+.main {
+  background-color: rgb(62, 170, 134);
+}
